@@ -1,0 +1,1 @@
+Doorbell,Speech,CupboardOpenClose,Dishes,Buzzer,VacuumCleaner

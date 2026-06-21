@@ -1,0 +1,1 @@
+Cough,Percussion,Clapping,Pour,Typing

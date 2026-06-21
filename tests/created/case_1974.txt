@@ -1,0 +1,1 @@
+Doorbell,AlarmClock,CupboardOpenClose,Clapping,Blender

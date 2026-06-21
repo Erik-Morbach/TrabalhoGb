@@ -1,0 +1,1 @@
+Doorbell,Speech,Buzzer,Pour,Dishes,Clapping,CupboardOpenClose

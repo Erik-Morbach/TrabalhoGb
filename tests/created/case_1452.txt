@@ -1,0 +1,1 @@
+Doorbell,VacuumCleaner,AlarmClock,CupboardOpenClose,Blender,HairDryer,Dishes

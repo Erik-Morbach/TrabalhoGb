@@ -1,0 +1,1 @@
+Doorbell,Speech,Pour,Dishes,CupboardOpenClose,Typing,HairDryer

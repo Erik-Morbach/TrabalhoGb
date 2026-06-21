@@ -1,0 +1,1 @@
+Doorbell,Dishes,Pour,VacuumCleaner,MechanicalFans,AlarmClock
